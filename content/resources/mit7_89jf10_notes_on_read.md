@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 'Notes on Reading Papers and Leading a Discussion about a Paper '
-type: OCWFile
 uid: 8e4e93c0-f2a4-48dc-c457-437902a553ea
 ---
