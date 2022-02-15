@@ -6,6 +6,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/7-89j-topics
 file_type: application/pdf
 learning_resource_types:
 - Readings
+ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
