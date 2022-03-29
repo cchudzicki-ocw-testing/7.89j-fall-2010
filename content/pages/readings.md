@@ -11,7 +11,7 @@ The assigned readings are from primary literature. You are responsible for under
 
 Tips on reading papers and leading a discussion about a paper ({{% resource_link 8e4e93c0-f2a4-48dc-c457-437902a553ea "PDF" %}})
 
-Background reading on probability and statistics (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 94e4f291-339c-748a-7516-257c457a0ce7 "PDF - 5.2MB" %}})
+Background reading on probability and statistics ({{% resource_link 94e4f291-339c-748a-7516-257c457a0ce7 "PDF - 5.2MB" %}})
 
 (Courtesy of Woolf, P., C. Burge, A. Keating, and M. Yaffe. Used with permission.)
 
