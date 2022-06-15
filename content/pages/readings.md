@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides a list of readings and optional readings by week,
+  links to online journal articles, background reading on probability and statistics,
+  and tips on reading papers and leading a discussion about a paper.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
